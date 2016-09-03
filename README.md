@@ -1,6 +1,8 @@
 # esimakin-twbs-pagination-wiht-jump-go-function.
 esimakin/twbs-pagination wiht jump/go function.
 
+由于页数太多，需要直接输入页数跳转功能，所以修改了一下。
+
 Here is the oringinal:
 
 https://github.com/esimakin/twbs-pagination
